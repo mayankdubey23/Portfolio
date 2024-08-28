@@ -1,7 +1,31 @@
-# Mayank portfolio
+#Mayank Dubey Portfolio
+
+> https://github.com/mayankdubey23
 
 
-This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+### Website Preview
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/mayankdubey23" target="_blank"><img src="examples/preview.gif">
+  </a>
+  </kbd>
+</p>
+
+:star: Star me on GitHub — it helps!
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Easy to modify
 
 
-[visit](https://mayankdubey23.github.io/Portfolio/)
+
+## Sections 📚
+✔️ About me\
+✔️ Projects \
+✔️ Education\
+✔️ Skills \
+✔️ Resume
+
+To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio/)**
+
