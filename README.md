@@ -1,6 +1,6 @@
 # Mayank Dubey Portfolio
 
-> https://github.com/mayankdubey23
+To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio/)**
 
 
 ### Website Preview
@@ -26,6 +26,4 @@
 ✔️ Education\
 ✔️ Skills \
 ✔️ Resume
-
-To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio/)**
 
