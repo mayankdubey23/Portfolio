@@ -1,7 +1,5 @@
 # Mayank Dubey Portfolio
 
-To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio/)**
-
 
 ### Website Preview
 <p align="center"> 
@@ -11,13 +9,12 @@ To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
+To view a live example, **[click here](https://mayankdubey23.github.io/Portfolio/)**
 
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Easy to modify
-
 
 
 ## Sections 📚
